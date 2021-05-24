@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Prise casque",
+        "image": "sony_xperia_m4_aqua_headphone_jack.jpg",
+        "author": "John Whitt ",
+        "company": "Carrefour",
+        "difficulty": "Modérée",
+        "necessary_time": "45 minutes",
+        "nb_favorite": "2",
+        "nb_completed_repair": "6",
+        "id_appliance": "1"
+    },
+    {
+        "name": "Camera frontale",
+        "image": "sony_xperia_m4_aqua_front_camera.jpg",
+        "author": "Justin Ogihara",
+        "company": "Sony",
+        "difficulty": "Modérée",
+        "necessary_time": "45 minutes",
+        "nb_favorite": "2",
+        "nb_completed_repair": "4",
+        "id_appliance": "1"
+    },
+    {
+        "name": "Vitre arrière",
+        "image": "Xiaomi_Mi_10_vitre_arriere.jpg",
+        "author": "Dominik Schnabelrauch",
+        "company": "Xiaomi",
+        "difficulty": "Modérée",
+        "necessary_time": "20 - 30 minutes",
+        "nb_favorite": "0",
+        "nb_completed_repair": "2",
+        "id_appliance": "2"
+    },
+    {
+        "name": "Batterie",
+        "image": "Xiaomi_Mi_10_battery.jpg",
+        "author": "Lee san",
+        "company": "Xiaomi",
+        "difficulty": "Modérée",
+        "necessary_time": "50 minutes - 2 heures",
+        "nb_favorite": "3",
+        "nb_completed_repair": "2",
+        "id_appliance": "2"
+    },
+    {
+        "name": "Carte SIM",
+        "image": "LG_Leon_LTE_SIM_Card.jpg",
+        "author": "Léon Charles",
+        "company": "LG",
+        "difficulty": "Facile",
+        "necessary_time": "5 minutes",
+        "nb_favorite": "3",
+        "nb_completed_repair": "2",
+        "id_appliance": "3"
+    },
+    {
+        "name": "Écouteur haut-parleur",
+        "image": "LG_Leon_LTE_Earpiece_Speaker.jpg",
+        "author": "Léo san",
+        "company": "Leroy Merlin",
+        "difficulty": "Modérée",
+        "necessary_time": "30 minutes",
+        "nb_favorite": "3",
+        "nb_completed_repair": "2",
+        "id_appliance": "3"
+    },
+    {
+        "name": "Remplacement Pentalobe",
+        "image": "pentalobe_iphone12_pro.jpg",
+        "author": " Adam O'Camb",
+        "company": "Apple",
+        "difficulty": "Facile",
+        "necessary_time": "1 minute",
+        "nb_favorite": "3",
+        "nb_completed_repair": "2",
+        "id_appliance": "4"
+    },
+    {
+        "name": "Remplacement de la carte SIM",
+        "image": "iPhone_12_Pro_SIM_Card_Replacement.jpg",
+        "author": " Adam O'Camb",
+        "company": "Apple",
+        "difficulty": "Facile",
+        "necessary_time": "1 minute",
+        "nb_favorite": "3",
+        "nb_completed_repair": "3",
+        "id_appliance": "4"
+    },
+    {
+        "name": "L'alimentation",
+        "image": "alimentation_du_PlayStation_4_Pro.jpg",
+        "author": "Ashlyn Chow",
+        "company": "Sony",
+        "difficulty": "Modérée",
+        "necessary_time": "5 - 15 minutes",
+        "nb_favorite": "9",
+        "nb_completed_repair": "21",
+        "id_appliance": "5"
+    },
+    {
+        "name": "Batterie",
+        "image": "Sony_DualSense_Controller_Battery.jpg",
+        "author": "Ashlyn Chow",
+        "company": "Sony",
+        "difficulty": "Modérée",
+        "necessary_time": "15 - 20 minutes",
+        "nb_favorite": "9",
+        "nb_completed_repair": "15",
+        "id_appliance": "6"
+    },
+    {
+        "name": "RAM",
+        "image": "ASUS_F550_RAM.jpg",
+        "author": "Ryan",
+        "company": "Asus",
+        "difficulty": "Facile",
+        "necessary_time": "30 minutes",
+        "nb_favorite": "2",
+        "nb_completed_repair": "2",
+        "id_appliance": "7"
+    }
+]

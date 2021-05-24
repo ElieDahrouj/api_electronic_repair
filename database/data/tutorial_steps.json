@@ -1,0 +1,452 @@
+[
+    {
+        "step_number": "1",
+        "description": "Placez le téléphone face vers le bas et utilisez un pistolet thermique ou un sèche-cheveux pour chauffer uniformément la surface arrière jusqu'à ramollir l'adhésif.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "2",
+        "description": "Fixez une ventouse à l'arrière du M4 Aqua en poussant doucement dessus près du haut du téléphone.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "3",
+        "description": "Tout en tirant sur la ventouse, faites glisser une fine entretoise en plastique (les médiators fonctionnent bien) entre le capot arrière et le téléphone. Faites-le glisser sur les bords pour briser le sceau adhésif. Soyez prudent, mais n'ayez pas peur d'utiliser une certaine force. Vous devriez entendre un son de rupture collant.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "4",
+        "description": "Retirez le capot arrière en le tirant hors du châssis. il est flexible et peut être plié, soyez prudent.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "5",
+        "description": "Retirez le ruban cuivré et tout autre adhésif de fixation à l'aide d'une spatule en nylon. Retirez soigneusement, car il a le potentiel ou la déchirure si trop de force est utilisée.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "6",
+        "description": "Décrochez soigneusement le connecteur de la batterie. Il est possible d'endommager la batterie si une force excessive est utilisée.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "7",
+        "description": "Retirez la batterie du téléphone grâce à la spatule en nylon. Il y a une petite quantité d'adhésif sous la batterie, donc un peu de force est nécessaire. La batterie est malléable, il est donc possible de bosseler la batterie si trop de force est appliquée à un endroit.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "8",
+        "description": "Retirez la batterie une fois que tout l'adhésif est cassé et que le connecteur est débranché.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "9",
+        "description": "Relâchez tous les connecteurs se connectant à la carte mère. Soulevez la carte mère du côté gauche avec l'outil de levier en plastique et retirez-la. Soyez très prudent car la carte mère est étroitement liée.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "10",
+        "description": "Avec vos doigts, détachez le connecteur de la caméra avant de l'arrière de la carte mère. Retirez la caméra frontale.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "11",
+        "description": "Avec vos doigts, ou une spatule en nylon si nécessaire, retirez le cache de fixation de la prise casque, le boîtier et l'autocollant.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "12",
+        "description": "Retirez la prise casque avec vos doigts.",
+        "id_replacement_tutorial": "1"
+    },
+    {
+        "step_number": "1",
+        "description": "Placez le téléphone face vers le bas et utilisez un pistolet thermique ou un sèche-cheveux pour chauffer uniformément la surface arrière jusqu'à ramollir l'adhésif.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "2",
+        "description": "Fixez une ventouse à l'arrière du M4 Aqua en poussant doucement dessus près du haut du téléphone.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "3",
+        "description": "Tout en tirant sur la ventouse, faites glisser une fine entretoise en plastique (les médiators fonctionnent bien) entre le capot arrière et le téléphone. Faites-le glisser sur les bords pour briser le sceau adhésif. Soyez prudent, mais n'ayez pas peur d'utiliser une certaine force. Vous devriez entendre un son de rupture collant.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "4",
+        "description": "Retirez le capot arrière en le tirant hors du châssis. il est flexible et peut être plié, soyez prudent.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "5",
+        "description": "Retirez le ruban cuivré et tout autre adhésif de fixation à l'aide d'une spatule en nylon. Retirez soigneusement, car il a le potentiel ou la déchirure si trop de force est utilisée.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "6",
+        "description": "Décrochez soigneusement le connecteur de la batterie. Il est possible d'endommager la batterie si une force excessive est utilisée.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "7",
+        "description": "Retirez la batterie du téléphone grâce à la spatule en nylon. Il y a une petite quantité d'adhésif sous la batterie, donc un peu de force est nécessaire. La batterie est malléable, il est donc possible de bosseler la batterie si trop de force est appliquée à un endroit.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "8",
+        "description": "Retirez la batterie une fois que tout l'adhésif est cassé et que le connecteur est débranché.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "9",
+        "description": "Retirez les quatre vis à tête hexagonale de 3 mm à chaque coin de la carte mère avec un tournevis.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "10",
+        "description": "Retirez trois morceaux du support de fixation à l'aide d'une pince à épiler",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "11",
+        "description": "Détachez le connecteur de la caméra arrière de l'avant de la carte mère. Retirez la caméra arrière avec vos doigts ou une pince à épiler.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "12",
+        "description": "Relâchez tous les connecteurs se connectant à la carte mère. Soulevez la carte mère du côté gauche avec l'outil de levier en plastique et retirez-la. Soyez très prudent car la carte mère est étroitement liée.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "13",
+        "description": "Avec vos doigts, détachez le connecteur de la caméra avant de l'arrière de la carte mère. Retirez la caméra frontale.",
+        "id_replacement_tutorial": "2"
+    },
+    {
+        "step_number": "1",
+        "description": "Avant de commencer, éteignez votre téléphone. Posez un iOpener chauffé sur le dos du téléphone pour ramollir l'adhésif sous la coque arrière. Faites chauffer l'iOpener pendant au moins deux minutes.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "2",
+        "description": "Appliquez une ventouse en bas de la vitre arrière, aussi près que possible du bord. Si la coque arrière du téléphone est fissurée, la ventouse risque de ne pas adhérer. Essayez de la remplacer par du ruban adhésif épais ou bien collez la ventouse avec de la superglue et laissez sécher avant de continuer. Soulevez la vitre avec la ventouse pour créer un léger espace entre la vitre et le châssis. La coque arrière du Xiaomi Mi 10 est solidement encastrée. Afin de créer un espace suffisant pour un médiator, vous devrez commencer par y introduire un iFlex. Insérez l'iFlex dans l'espace et laissez-l'y afin d'éviter que l'adhésif colle de nouveau.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "3",
+        "description": "Introduisez un médiator dans l'espace que vous venez de créer avec l'iFlex. Faites glisser le médiator vers le coin inférieur droit. Voici le moment de retirer l'iFlex du téléphone.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "4",
+        "description": "Insérez un deuxième médiator et faites-le glisser vers le coin inférieur gauche pour trancher l'adhésif. Laissez les médiators en place afin d'éviter que l'adhésif recolle.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "5",
+        "description": "Introduisez un troisième médiator dans le coin inférieur gauche. Faites glisser la pointe du médiator depuis le coin inférieur gauche le long du bord du téléphone pour trancher l'adhésif. Laissez le médiator à sa place dans le coin supérieur gauche pour empêcher l'adhésif d'adhérer de nouveau.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "6",
+        "description": "Si vous commencez à avoir du mal à couper l'adhésif, celui-ci a probablement refroidi. Utilisez votre iOpener pour le réchauffer. Insérez un quatrième médiator sous le coin supérieur gauche de la coque arrière. Faites glisser le médiator le long du bord supérieur du téléphone pour trancher l'adhésif. Laissez le médiator dans le coin supérieur droit afin d'éviter que l'adhésif colle de nouveau.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "7",
+        "description": "Introduisez un cinquième médiator dans le coin supérieur droit du téléphone. Parcourez le bord droit avec le médiator afin d'y faire céder l'adhésif restant.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "8",
+        "description": "Retirez la vitre arrière. Lors du remontage, voici venu le moment d'allumer votre téléphone et tester s'il fonctionne avant de le sceller. Assurez-vous d'éteindre à nouveau complètement votre téléphone avant de reprendre votre ouvrage.",
+        "id_replacement_tutorial": "3"
+    },
+    {
+        "step_number": "1",
+        "description": "Avant de commencer, éteignez votre téléphone. Posez un iOpener chauffé sur le dos du téléphone pour ramollir l'adhésif sous la coque arrière. Faites chauffer l'iOpener pendant au moins deux minutes.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "2",
+        "description": "Appliquez une ventouse en bas de la vitre arrière, aussi près que possible du bord. Si la coque arrière du téléphone est fissurée, la ventouse risque de ne pas adhérer. Essayez de la remplacer par du ruban adhésif épais ou bien collez la ventouse avec de la superglue et laissez sécher avant de continuer. Soulevez la vitre avec la ventouse pour créer un léger espace entre la vitre et le châssis. La coque arrière du Xiaomi Mi 10 est solidement encastrée. Afin de créer un espace suffisant pour un médiator, vous devrez commencer par y introduire un iFlex. Insérez l'iFlex dans l'espace et laissez-l'y afin d'éviter que l'adhésif colle de nouveau.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "3",
+        "description": "Introduisez un médiator dans l'espace que vous venez de créer avec l'iFlex. Faites glisser le médiator vers le coin inférieur droit. Voici le moment de retirer l'iFlex du téléphone.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "4",
+        "description": "Insérez un deuxième médiator et faites-le glisser vers le coin inférieur gauche pour trancher l'adhésif. Laissez les médiators en place afin d'éviter que l'adhésif recolle.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "5",
+        "description": "Introduisez un troisième médiator dans le coin inférieur gauche. Faites glisser la pointe du médiator depuis le coin inférieur gauche le long du bord du téléphone pour trancher l'adhésif. Laissez le médiator à sa place dans le coin supérieur gauche pour empêcher l'adhésif d'adhérer de nouveau.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "6",
+        "description": "Si vous commencez à avoir du mal à couper l'adhésif, celui-ci a probablement refroidi. Utilisez votre iOpener pour le réchauffer. Insérez un quatrième médiator sous le coin supérieur gauche de la coque arrière. Faites glisser le médiator le long du bord supérieur du téléphone pour trancher l'adhésif. Laissez le médiator dans le coin supérieur droit afin d'éviter que l'adhésif colle de nouveau.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "7",
+        "description": "Introduisez un cinquième médiator dans le coin supérieur droit du téléphone. Parcourez le bord droit avec le médiator afin d'y faire céder l'adhésif restant.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "8",
+        "description": "Retirez la vitre arrière. Lors du remontage, voici venu le moment d'allumer votre téléphone et tester s'il fonctionne avant de le sceller. Assurez-vous d'éteindre à nouveau complètement votre téléphone avant de reprendre votre ouvrage.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "9",
+        "description": "Ôtez les quatre vis cruciformes #00 de 4,9 mm.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "10",
+        "description": "Prenez un médiator pour décoller le film adhésif noir qui protège l'ensemble haut-parleur supérieur.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "11",
+        "description": "Gardez le médiator pour détacher le film adhésif noir qui protège l'ensemble haut-parleur inférieur.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "12",
+        "description": "Un petit morceau de film de protection en cuivre se trouve sous l'ensemble NFC et bobine de charge. Évitez de l'abîmer lors de la procédure suivante. Faites glisser une carte en plastique ou de jeu sous l'ensemble NFC et bobine de charge. Maniez délicatement la carte pour détacher l'adhésif sous le bord gauche de l'ensemble. Pour faciliter la manipulation, vous pouvez appliquer un iOpener chauffé sur le bord gauche de l'ensemble NFC et bobine de charge afin de faire ramollir l'adhésif. Ne retirez pas encore complètement l'ensemble NFC et bobine de charge. Il est toujours collé au cache de la carte mère.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "13",
+        "description": "Repliez délicatement l'ensemble NFC & bobine de charge à gauche du téléphone.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "14",
+        "description": "Dévissez les cinq vis cruciformes #00 de 4,9 mm.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "15",
+        "description": "Faites glisser un médiator sous le coin inférieur droit du cache de la carte mère. Faites levier pour soulever le cache de la carte mère.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "16",
+        "description": "Retirez le cache de la carte mère, qui inclut l'ensemble NFC et bobine de charge.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "17",
+        "description": "Faites levier avec l'extrémité plate d'une spatule pour débrancher la nappe de la batterie.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "18",
+        "description": "Dévissez les trois vis cruciformes #00 qui fixent l'ensemble haut-parleur supérieur.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "19",
+        "description": "Insérez un médiator sous le coin inférieur gauche de l'ensemble haut-parleur supérieur. Faites levier sur le haut-parleur avec le médiator pour le soulever.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "20",
+        "description": "Ôtez l'ensemble haut-parleur supérieur.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "21",
+        "description": "Faites levier avec l'extrémité plate d'une spatule pour débrancher la nappe d'interconnexion qui recouvre le bord supérieur de la batterie. Repliez la nappe d'interconnexion sur la gauche du téléphone pour accéder à la batterie.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "22",
+        "description": "Avec vos doigts, décollez les deux extrémités de la languette orange étiquetée A de la batterie. Décollez la petite languette étiquetée B de la batterie.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "23",
+        "description": "Saisissez les extrémités de la languette d'extraction orange A. Soulevez la batterie vers le haut et hors de son compartiment.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "24",
+        "description": "Décollez la batterie de l'adhésif. Retirez la batterie. Ne réutilisez jamais une batterie abîmée ou déformée, car c'est dangereux. Avant de coller la batterie de remplacement : Rebranchez temporairement le connecteur de la batterie à la prise de la carte mère. Ainsi, la batterie sera correctement alignée dans son compartiment. Collez la batterie, déconnectez-la et reprenez le remontage de votre téléphone.",
+        "id_replacement_tutorial": "4"
+    },
+    {
+        "step_number": "1",
+        "description": "Tout d'abord, assurez-vous de retourner le téléphone de manière à voir l'arrière. La batterie est située à l'arrière du téléphone.",
+        "id_replacement_tutorial": "5"
+    },
+    {
+        "step_number": "2",
+        "description": "Deuxièmement, en utilisant votre outil d'ouverture vers le haut, faites délicatement levier sur le dos du téléphone pour l'ouvrir au niveau de la zone d'incision. Cela se trouve au bas du téléphone. Vous aurez maintenant accès à la batterie. Une fois que vous avez accès à la batterie, retirez-la soigneusement afin de pouvoir accéder à la carte SIM. La carte SIM est visible sur la troisième image. Le retrait de la batterie n'est pas illustré.",
+        "id_replacement_tutorial": "5"
+    },
+    {
+        "step_number": "3",
+        "description": "Une fois la carte SIM accessible, faites-la glisser hors du support SIM comme illustré. Appliquez une force vers le bas dans un mouvement vers l'extérieur. Une légère force sera nécessaire pour retirer la carte SIM du support de la carte SIM.",
+        "id_replacement_tutorial": "5"
+    },
+    {
+        "step_number": "1",
+        "description": "Tout d'abord, assurez-vous de retourner le téléphone de manière à voir l'arrière. La batterie est située à l'arrière du téléphone.",
+        "id_replacement_tutorial": "6"
+    },
+    {
+        "step_number": "2",
+        "description": "Deuxièmement, en utilisant votre outil d'ouverture vers le haut, faites délicatement levier sur le dos du téléphone pour l'ouvrir au niveau de la zone d'incision. Cela se trouve au bas du téléphone. Vous aurez maintenant accès à la batterie. Une fois que vous avez accès à la batterie, retirez-la soigneusement afin de pouvoir accéder à la carte SIM. La carte SIM est visible sur la troisième image. Le retrait de la batterie n'est pas illustré.",
+        "id_replacement_tutorial": "6"
+    },
+    {
+        "step_number": "3",
+        "description": "Une fois le dos retiré, vous aurez accès aux 8 vis qui doivent être dévissées avec le tournevis Phillips # 0. Une fois que toutes les vis sont libres, utilisez l'outil d'ouverture pour séparer le cadre arrière du téléphone.",
+        "id_replacement_tutorial": "6"
+    },
+    {
+        "step_number": "4",
+        "description": "À ce stade, vous devriez avoir accès à la carte mère.",
+        "id_replacement_tutorial": "6"
+    },
+    {
+        "step_number": "5",
+        "description": "Utilisez l'outil d'ouverture pour obtenir l'écouteur.",
+        "id_replacement_tutorial": "6"
+    },
+    {
+        "step_number": "1",
+        "description": "Attention: avant de commencer, déchargez la batterie de votre iPhone en dessous de 25%. Une batterie lithium-ion chargée peut prendre feu et / ou exploser en cas de perforation accidentelle. Éteignez votre iPhone avant de commencer le démontage. Retirez les deux vis pentalobe P2 de 6,75 mm de long sur le bord inférieur de l'iPhone. L'ouverture de l'écran de l'iPhone compromettra ses joints étanches. Préparez les joints de remplacement avant de passer cette étape, ou veillez à éviter toute exposition aux liquides si vous remontez votre iPhone sans remplacer les joints.",
+        "id_replacement_tutorial": "7"
+    },
+    {
+        "step_number": "1",
+        "description": "Insérez un outil d'éjection de carte SIM ou un trombone dans le petit trou du plateau de la carte SIM, situé sur le bord du bouton de volume de l'iPhone. Appuyez fermement pour éjecter le plateau.",
+        "id_replacement_tutorial": "8"
+    },
+    {
+        "step_number": "2",
+        "description": "Retirez le plateau de la carte SIM de l'iPhone.",
+        "id_replacement_tutorial": "8"
+    },
+    {
+        "step_number": "1",
+        "description": "Commencez par retourner la console à l'envers. Utilisez votre doigt pour tirer et casser le couvercle en plastique sur le disque dur.",
+        "id_replacement_tutorial": "9"
+    },
+    {
+        "step_number": "2",
+        "description": "Utilisez un tournevis pour retirer la seule vis cruciforme # 0 fixant le chariot du disque dur. Tirez le chariot du disque dur vers l'extérieur.",
+        "id_replacement_tutorial": "9"
+    },
+    {
+        "step_number": "3",
+        "description": "Retournez la console côté droit vers le haut. Saisissez les deux coins situés à l'avant de l'appareil. Tirez vers le haut jusqu'à ce qu'un clic fort soit entendu. Cela peut nécessiter beaucoup de force, alors n'ayez pas peur de devenir un peu rude avec votre console. Une fois les deux coins détachés, faites glisser le couvercle vers l'arrière et soulevez-le.",
+        "id_replacement_tutorial": "9"
+    },
+    {
+        "step_number": "4",
+        "description": "Utilisez un tournevis de sécurité Torx T8 pour retirer les cinq vis. Deux vis de 31 mm. Trois vis de 10 mm. Retirez la plaque métallique.",
+        "id_replacement_tutorial": "9"
+    },
+    {
+        "step_number": "5",
+        "description": "Retournez à nouveau la console sur le dos. Utilisez un tournevis de sécurité Torx T8 pour retirer les trois vis noires de 7 mm du panneau arrière. Retirez le capot inférieur de la même manière que le capot supérieur. Saisissez les deux côtés, tirez vers le haut jusqu'à ce qu'un déclic se fasse entendre et glissez.",
+        "id_replacement_tutorial": "9"
+    },
+    {
+        "step_number": "6",
+        "description": "Utilisez un tournevis de sécurité Torx T8 pour retirer les deux vis argentées de 10 mm de la plaque métallique.",
+        "id_replacement_tutorial": "9"
+    },
+    {
+        "step_number": "7",
+        "description": "Retournez la console pour continuer à travailler sur le dessus. Placez les doigts sous le bord du bloc d'alimentation des deux côtés et tirez vers le haut. Attention à ne pas tirer trop loin, l'ensemble est toujours connecté en un point. Saisissez le connecteur derrière le bloc d'alimentation et tirez-le tout droit.",
+        "id_replacement_tutorial": "9"
+    },
+    {
+        "step_number": "1",
+        "description": "Déconnectez et éteignez votre contrôleur avant de commencer. Insérez un médiator sous la garniture centrale dans le coin inférieur droit du contrôleur pour libérer les clips qui le fixent au boîtier.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "2",
+        "description": "Faites glisser le médiator le long du bord inférieur droit de la garniture du milieu pour libérer les clips qui le fixent au boîtier.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "3",
+        "description": "Insérez un médiator sous la garniture du milieu dans le coin inférieur gauche du contrôleur pour libérer les clips qui le fixent au boîtier.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "4",
+        "description": "Faites glisser le médiator le long du bord inférieur gauche de la garniture du milieu pour libérer les clips qui le fixent au boîtier.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "5",
+        "description": "Utilisez vos doigts pour soulever le bord inférieur de la garniture du milieu pour libérer les clips restants. Soulevez la garniture du milieu sur les joysticks pour la retirer.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "6",
+        "description": "Insérez l'extrémité plate d'un spudger dans l'espace au-dessus du bouton L1. Couvrez le bouton avec votre pouce pour l'empêcher de s'éjecter à travers la pièce. Faites levier vers le haut pour retirer le bouton L1.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "7",
+        "description": "Insérez l'extrémité plate d'un spudger dans l'espace au-dessus du bouton R1. Couvrez le bouton avec votre pouce pour l'empêcher de s'éjecter à travers la pièce. Faites levier vers le haut pour retirer le bouton R1.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "8",
+        "description": "Utilisez un tournevis cruciforme pour retirer les deux vis de 6,4 mm fixant les coins inférieurs du boîtier inférieur.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "9",
+        "description": "Utilisez un tournevis cruciforme pour retirer les deux vis de 6,4 mm derrière les boutons L1 et R1.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "10",
+        "description": "Utilisez le bord pointu d'un spudger pour déclipser les deux clips de part et d'autre de la prise casque.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "11",
+        "description": "Retirez le boîtier arrière.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "12",
+        "description": "Utilisez une pince à épiler ou vos doigts pour déconnecter la batterie de la carte mère. Tirez les fils de la batterie par leurs connecteurs plutôt que par les fils eux-mêmes.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "13",
+        "description": "Soulevez la batterie tout droit hors du support de batterie.",
+        "id_replacement_tutorial": "10"
+    },
+    {
+        "step_number": "1",
+        "description": "Retirez la batterie à l'aide des clips de dégagement. Assurez-vous que l'appareil n'a pas de puissance résiduelle en essayant de démarrer une fois la batterie retirée. Retirez 2 (ou 4 pour un démontage complet) vis cruciformes de 12 mm, puis retirez le capot inférieur pour accéder au disque dur et à la RAM. Retirez le couvercle du disque dur et de la RAM",
+        "id_replacement_tutorial": "11"
+    },
+    {
+        "step_number": "2",
+        "description": "Relâchez les bras de fixation et retirez la RAM.",
+        "id_replacement_tutorial": "11"
+    }
+]
