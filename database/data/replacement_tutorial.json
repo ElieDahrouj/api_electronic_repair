@@ -2,7 +2,7 @@
     {
         "name": "Prise casque",
         "image": "sony_xperia_m4_aqua_headphone_jack.jpg",
-        "author": "John Whitt ",
+        "author": "John Whitt",
         "company": "Carrefour",
         "difficulty": "Modérée",
         "necessary_time": "45 minutes",
@@ -68,7 +68,7 @@
     {
         "name": "Remplacement Pentalobe",
         "image": "pentalobe_iphone12_pro.jpg",
-        "author": " Adam O'Camb",
+        "author": "Adam O'Camb",
         "company": "Apple",
         "difficulty": "Facile",
         "necessary_time": "1 minute",
@@ -79,7 +79,7 @@
     {
         "name": "Remplacement de la carte SIM",
         "image": "iPhone_12_Pro_SIM_Card_Replacement.jpg",
-        "author": " Adam O'Camb",
+        "author": "Adam O'Camb",
         "company": "Apple",
         "difficulty": "Facile",
         "necessary_time": "1 minute",
