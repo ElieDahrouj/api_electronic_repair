@@ -20,7 +20,7 @@ class CategorySeeder extends Seeder
         foreach ($json as $dataRegistered){
             $category = new Category();
             $category->name = $dataRegistered->name;
-            $category->image = asset("storage/pictures/categories/".$dataRegistered->image);
+            $category->image = asset("pictures/categories/".$dataRegistered->image);
             $category->save();
         }
     }

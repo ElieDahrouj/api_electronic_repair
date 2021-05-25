@@ -21,7 +21,7 @@ class AppliancesSeeder extends Seeder
             $appliance->name = $dataRegistered->name;
             $appliance->description = $dataRegistered->description;
             $appliance->id_category = $dataRegistered->id_category;
-            $appliance->image = asset("storage/pictures/appliances/".$dataRegistered->image);
+            $appliance->image = asset("pictures/appliances/".$dataRegistered->image);
             $appliance->save();
         }
     }

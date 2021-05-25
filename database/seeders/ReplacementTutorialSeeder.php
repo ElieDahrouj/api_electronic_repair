@@ -20,7 +20,7 @@ class ReplacementTutorialSeeder extends Seeder
             $replacementTutorial = new ReplacementTutorial();
             $replacementTutorial->name = $dataRegistered->name;
             $replacementTutorial->author = $dataRegistered->author;
-            $replacementTutorial->image = asset("storage/pictures/replacements_tutorials/".$dataRegistered->image);
+            $replacementTutorial->image = asset("pictures/replacements_tutorials/".$dataRegistered->image);
             $replacementTutorial->difficulty = $dataRegistered->difficulty;
             $replacementTutorial->company = $dataRegistered->company;
             $replacementTutorial->necessary_time = $dataRegistered->necessary_time;
