@@ -18,7 +18,7 @@ class TutorialPicturesSeeder extends Seeder
 
         foreach ($json as $dataRegistered){
             $tutorialPicture = new TutorialPicture();
-            $tutorialPicture->path = asset("pictures/tutorial_pictures".$dataRegistered->path);
+            $tutorialPicture->path = asset("pictures/tutorial_pictures/".$dataRegistered->path);
             $tutorialPicture->id_tutorial_step = $dataRegistered->id_tutorial_step;
             $tutorialPicture->save();
         }
