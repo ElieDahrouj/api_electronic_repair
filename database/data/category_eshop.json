@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kits d'outils",
+        "picture": "kits.jpg"
+    },
+    {
+        "name": "Pinces",
+        "picture": "manta_Precision_Bit_Set.jpg"
+    },
+    {
+        "name": "Tournevis",
+        "picture": "screwdriver.jpg"
+    },
+    {
+        "name": "Pièces Console de jeux",
+        "picture": "piece_console_de_jeux.jpg"
+    },
+    {
+        "name": "Pièces Smartphone",
+        "picture": "piece_smartphone.png"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Moray Precision Bit Set",
+        "description": "Vous êtes à la recherche d’un kit d’embouts aussi complet que possible avec tous les embouts courants pour les réparations électroniques ? En même temps, vous aimeriez pouvoir le ranger et aussi le trimballer facilement ? Nous avons juste ce qu’il vous faut ! Utile et compact, notre Moray Precision Bit Set, équipé de 32 embouts de précision, est l’amalgame parfait entre taille et portabilité. Cet assortiment contient des embouts cruciformes et plats dans diverses tailles, des embouts Torx et Torx Security, et même des embouts spéciaux pour iPhone et le Gamebit pour les consoles de jeu. Ce kit d’embouts fera le bonheur de tout bricoleur. Bien évidemment, nous ne nous sommes pas contentés de mettre n’importe quels embouts dans une boîte quelconque. Grâce à notre expérience de longue date, nous avons conçu une sélection qui comporte tous les embouts nécessaires pour les vis que vous allez très probablement croiser lors de vos réparations. ",
+        "price": "19.99",
+        "picture": "moray_Precision_Bit_Set.jpg",
+        "category_id": 1
+    },
+    {
+        "name": "Pro Tech Toolkit",
+        "description": "Nos nombreux tutoriels de réparation expliquent étape par étape comment réparer vous-même vos appareils électroniques défaillants. Et pour être que vous bien équipé pour toute réparation, nous avons concocté un lot complet dans une trousse compacte : outils et spatules pour ouvrir facilement les appareils, pincettes et ventouse pour tenir les composants en toute sécurité. En plus, nous avons rajouté un set de 64 embouts de tournevis en acier S2 pour toutes les têtes de vis courantes et plus exotiques. Tous nos outils sont évidemment contrôlés en usine dans les moindres détails.",
+        "price": "69.99",
+        "picture": "pro_Tech_Toolkit.jpg",
+        "category_id": 1
+    },
+    {
+        "name": "Manta Precision Bit Set",
+        "description": "Marre des produits jetables : rien n’est aussi frustrant qu’un appareil high-tech cher qui nous lâche après seulement quelques mois d’utilisation. Mais que faire face à un tel désastre qui peut nous gâcher la journée ? La solution : réparer soi-même. Notre Pro Tech Toolkit de haute qualité contient tous les outils qu’il vous faut pour réparer smartphones, consoles de jeu ou appareils connectés. Tout pour la réparation électronique dans une trousse compacte Nos nombreux tutoriels de réparation expliquent étape par étape comment réparer vous-même vos appareils électroniques défaillants. Et pour être que vous bien équipé pour toute réparation, nous avons concocté un lot complet dans une trousse compacte : outils et spatules pour ouvrir facilement les appareils, pincettes et ventouse pour tenir les composants en toute sécurité. En plus, nous avons rajouté un set de 64 embouts de tournevis en acier S2 pour toutes les têtes de vis courantes et plus exotiques. Tous nos outils sont évidemment contrôlés en usine dans les moindres détails.\n\nAstuce : le bracelet antistatique inclus vous permet de rendre nos outils antistatiques.",
+        "price": "64.99",
+        "picture": "manta_Precision_Bit_Set.jpg",
+        "category_id": 1
+    },
+    {
+        "name": "Set de pincettes de précision",
+        "description": "Les pincettes de précision iFixit attrapent tout, des vis aux sourcils. Elles sont parfaites pour tenir, tirer, écraser, soulever et retirer. Des pointes différentes pour des tâches différentes : pointue pour une précision absolue, courbée pour une ergonomie maximale, et aplatie pour ce qui est plus lourd. Le revêtement antistatique protège les appareils électriques délicats des décharges électrostatiques.",
+        "price": "14.95",
+        "picture": "set_de_pincettes_de_précision.jpg",
+        "category_id": 2
+    },
+    {
+        "name": "Tournevis Tri-point Y00",
+        "description": "Le tournevis Y00 d'iFixit dispose d'une prise moletée et d'un manche ergonomique et caoutchouté avec une tête pivotante. Fabriqué en Allemagne avec une qualité de fabrication sans compromis, ce tournevis de précision sera le dernier de son genre que vous serez obligé d'acheter.",
+        "price": "7.95",
+        "picture": "tournevis_Tri-point_Y00.jpg",
+        "category_id": 3
+    },
+    {
+        "name": "Ventilateur pour PlayStation 4",
+        "description": "Remplacez un ventilateur défectueux pour résoudre les problèmes de surchauffe et retrouver une PlayStation 4 CUH-10xxA ou CUH-11xxA silencieuse. Un ventilateur vieillissant devient bruyant et perd en efficacité. Ou bien il tombe en panne et arrête de tourner. Votre console de jeu risque donc de surchauffer et les processeurs de s'endommager.",
+        "price": "21.95",
+        "picture": "ventilateur_ps4.jpg",
+        "category_id": 4
+    },
+    {
+        "name": "Haut-parleur pour Nintendo Switch",
+        "description": "Remplacez un des deux haut-parleurs identiques d’une Nintendo Switch afin de profiter de nouveau d'un son stéréo de qualité. Un haut-parleur vieillissant ou défectueux risque de faire des bruits gênants ou de couper le son de façon inattendue. Restaurez la qualité audio de votre console avec cette pièce de remplacement.",
+        "price": "9.95",
+        "picture": "haut_parleur_nintendo_switch.jpg",
+        "category_id": 4
+    },
+    {
+        "name": "Batterie pour iPhone 11 Pro Max",
+        "description": "Cette batterie de remplacement pour iPhone 11 Pro Max est ce qu'il vous faut pour redonner vie à votre téléphone mort !",
+        "price": "69.99",
+        "picture": "batterie_iphone_11.jpg",
+        "category_id": 5
+    },
+    {
+        "name": "Caméra arrière pour iPhone 8",
+        "description": "Remplacez la caméra arrière complète de l'iPhone 8. Si la caméra a des problèmes de capteur, de mise au point ou ne fonctionne pas bien, il vous faut cette pièce de rechange.",
+        "price": "74.95",
+        "picture": "camera_iphone_8.jpg",
+        "category_id": 5
+    }
+]

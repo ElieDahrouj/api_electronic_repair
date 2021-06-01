@@ -20,7 +20,9 @@ class DatabaseSeeder extends Seeder
             AppliancesSeeder::class,
             ReplacementTutorialSeeder::class,
             TutorialStepsSeeder::class,
-            TutorialPicturesSeeder::class
+            TutorialPicturesSeeder::class,
+            CategoryEshopSeeder::class,
+            EquipmentSeeder::class
         ]);
     }
 }

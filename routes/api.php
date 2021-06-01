@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ReplacementTutorialController;
 use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\CategoryEshopController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -21,3 +22,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::get('home', [ReplacementTutorialController::class,'index'])->name('home');
 Route::get('category', [CategoryController::class,'index'])->name('category');
+Route::get('eshop', [CategoryEshopController::class,'index'])->name('eshop');
