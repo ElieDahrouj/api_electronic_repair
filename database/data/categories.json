@@ -1,30 +1,30 @@
 [
     {
         "name": "Sony",
-        "image": "sony_category.webp"
+        "picture": "sony_category.webp"
     },
     {
         "name": "Xiaomi",
-        "image": "xiaomi_cat.jpg"
+        "picture": "xiaomi_cat.jpg"
     },
     {
         "name": "LG",
-        "image": "lg_category.webp"
+        "picture": "lg_category.webp"
     },
     {
         "name": "Iphone",
-        "image": "iphone_category.jpg"
+        "picture": "iphone_category.jpg"
     },
     {
         "name": "Console de salon Sony",
-        "image": "console_de_jeux_sony_category.png"
+        "picture": "console_de_jeux_sony_category.png"
     },
     {
         "name": "Accessoires des consoles Sony",
-        "image": "accessoires_des_consoles_sony_category.png"
+        "picture": "accessoires_des_consoles_sony_category.png"
     },
     {
         "name": "Ordinateur portable Asus",
-        "image": "ordinateur_portable_asus_category.jpg"
+        "picture": "ordinateur_portable_asus_category.jpg"
     }
 ]
