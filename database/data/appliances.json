@@ -1,28 +1,28 @@
 [
     {
         "name": "Sony Xperia M4 Aqua",
-        "image": "sony_xperia_m4_aqua.jpg",
+        "picture": "sony_xperia_m4_aqua.jpg",
         "reparability_index": "4",
         "description": "Succédant au Xperia M2 sur le segment des smartphones milieu de gamme Sony, le Xperia M4 Aqua profite d'un design Omnibalance et étanche IP68 : il sera donc protégé contre les effets d’immersion sous l'eau au-delà d’un mètre de profondeur, jusqu'à 30 minutes. Moins performant que les terminaux de la gamme Z, il dispose en contrepartie d'un tarif beaucoup plus abordable.",
         "id_category": "1"
     },
     {
         "name": "Xiaomi Mi 10",
-        "image": "xiaomi_mi_10.png",
+        "picture": "xiaomi_mi_10.png",
         "reparability_index": "5",
         "description": "Le Xiaomi Mi 10 est un smartphone haut de gamme annoncé en février 2020. Il est équipé d'un écran AMOLED de 6,67 pouces 90 Hz et HDR10+, d'un SoC Qualcomm Snapdragon 865 épaulé par 8 ou 12 Go de RAM et d'une compatibilité avec les réseaux 5G.",
         "id_category": "2"
     },
     {
         "name": "LG Leon LTE",
-        "image": "lg_leon_4g.png",
+        "picture": "lg_leon_4g.png",
         "reparability_index": "4",
         "description": "Le LG Leon 4G est un smartphone entrée de gamme au format 4.5 pouces. Il fonctionne sous Android Lollipop et possède un processeur Snapdragon 400 cadencé à 1.3 GHz épaulé par 1 Go de RAM. Il dispose d'une capacité de stockage de 8 Go extensible via une carte micro SDHC n'excédant pas 32 Go. Il possède un capteur photo dorsal de 5 mégapixels, et un frontal de 0.3 mégapixels.",
         "id_category": "3"
     },
     {
         "name": "iPhone 12 Pro",
-        "image": "iphone_12_pro.jpg",
+        "picture": "iphone_12_pro.jpg",
         "reparability_index": "6",
         "description": "L'iPhone 12 Pro est le modèle haut de gamme de la 14e génération de smartphone d'Apple annoncé le 13 octobre 2020. Il est équipé d'un écran de 6,1 pouces OLED HDR 60 Hz, d'un triple capteur photo avec ultra grand-angle et téléobjectif (x4 optique) et d'un SoC Apple A14 Bionic compatible 5G (sub-6 GHz).",
         "id_category": "4"
@@ -30,21 +30,21 @@
     {
         "name": "PlayStation 4 Pro",
         "reparability_index": "",
-        "image": "sony_playstation_4_pro.png",
+        "picture": "sony_playstation_4_pro.png",
         "description": "Un gameplay intense et vibrant, des films aux images époustouflantes et un niveau de détails incroyable à chaque instant. Véritable concentré de technologies de pointe, la PS4 Pro procure les expériences de jeu plus rapides, plus fluides et plus extrêmes. Les jeux brillent d'une vie intense et de détails très réalistes grâce à plus de puissance sous le capot.",
         "id_category": "5"
     },
     {
         "name": "DualSense Controller",
         "reparability_index": "",
-        "image": "dualsense_controller.png",
+        "picture": "dualsense_controller.png",
         "description": "En terme de fonctionnalités, le pad de la PlayStation 5 gérera le retour haptique, qui sera ici utilisé pour accentuer certaines sensations. Par exemple, le sentiment de lourdeur pendant la conduite d’un véhicule roulant dans la boue. La récente prise en main par des Youtubeurs japonais a d'ailleurs confirmé que ces sensations seront très différentes en fonction des situations (qu'on soit dans l'eau ou face à des bourrasques de vent par exemple). Et qu'il sera possible de désactiver les retours haptiques.",
         "id_category": "6"
     },
     {
         "name": "ASUS F550",
         "reparability_index": "5",
-        "image": "ASUS_F550.jpg",
+        "picture": "ASUS_F550.jpg",
         "description": "Ordinateur ASUS 15.6 F550. Numéro de modèle similaire F550C, F550CA, F550CC, F550E, F550EA, F550L, F550LA, F550LB, F550LC, F550V, F550VB, et F550VC. Sortis en 2017.",
         "id_category": "7"
     }

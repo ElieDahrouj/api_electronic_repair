@@ -19,7 +19,7 @@ class CreateAppliancesTable extends Migration
             $table->string('name');
             $table->text('description');
             $table->float("reparability_index")->nullable();
-            $table->string('image');
+            $table->string('picture');
             $table->foreignId('id_category')->constrained('categories');
         });
     }
