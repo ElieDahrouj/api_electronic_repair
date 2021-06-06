@@ -41,12 +41,21 @@ class CategoryController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Category  $category
-     * @return \Illuminate\Http\Response
+     * @param \App\Models\Category $category
+     * @param $id
+     * @return \Illuminate\Http\JsonResponse
      */
-    public function show(Category $category)
+    public function show(Category $category, $id): \Illuminate\Http\JsonResponse
     {
+        $getOneCategory =  Category::with('appliance')
+            ->where([['id', $id]])
+            ->get();
 
+        if (count($getOneCategory) === 0){
+            return response()->json(['errors'=>"Not Found"],404);
+        }
+
+        return response()->json(['data'=> $getOneCategory]);
     }
 
     /**
