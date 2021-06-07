@@ -41,12 +41,21 @@ class CategoryEshopController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\CategoryEshop  $categoryEshop
-     * @return \Illuminate\Http\Response
+     * @param \App\Models\CategoryEshop $categoryEshop
+     * @param $id
+     * @return \Illuminate\Http\JsonResponse
      */
-    public function show(CategoryEshop $categoryEshop)
+    public function show(CategoryEshop $categoryEshop, $id)
     {
-        //
+        $getOneCategoryEshop =  CategoryEshop::with('equipment')
+            ->where([['id', $id]])
+            ->get();
+
+        if (count($getOneCategoryEshop) === 0){
+            return response()->json(['errors'=>"Not Found"],404);
+        }
+
+        return response()->json(['data'=> $getOneCategoryEshop]);
     }
 
     /**

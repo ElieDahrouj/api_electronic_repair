@@ -23,4 +23,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::get('home', [ReplacementTutorialController::class,'index'])->name('home');
 Route::get('category', [CategoryController::class,'index'])->name('category');
 Route::get('eshop', [CategoryEshopController::class,'index'])->name('eshop');
+Route::get('eshop/{id}', [CategoryEshopController::class,'show'])->name('eshopCategoryId');
 Route::get('category/{id}', [CategoryController::class,'show'])->name('categoryId');
