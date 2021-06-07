@@ -11,6 +11,6 @@ class Equipment extends Model
 
     public function categoryEshop(): \Illuminate\Database\Eloquent\Relations\BelongsTo
     {
-        return $this->belongsTo(CategoryEshop::class, 'id', "id_category");
+        return $this->belongsTo(CategoryEshop::class, 'id_category', "id");
     }
 }

@@ -41,12 +41,21 @@ class EquipmentController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Equipment  $equipment
-     * @return \Illuminate\Http\Response
+     * @param \App\Models\Equipment $equipment
+     * @param $id
+     * @return \Illuminate\Http\JsonResponse
      */
-    public function show(Equipment $equipment)
+    public function show(Equipment $equipment, $id): \Illuminate\Http\JsonResponse
     {
-        //
+        $getOneEquipment =  Equipment::with('categoryEshop')
+            ->where([['id', $id]])
+            ->get();
+
+        if (count($getOneEquipment) === 0){
+            return response()->json(['errors'=>"Not Found"],404);
+        }
+
+        return response()->json(['data'=> $getOneEquipment]);
     }
 
     /**
