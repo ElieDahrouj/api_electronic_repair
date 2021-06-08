@@ -11,11 +11,11 @@ class Appliance extends Model
 
     public function category(): \Illuminate\Database\Eloquent\Relations\BelongsTo
     {
-        return $this->belongsTo(Category::class, 'id', 'id_category');
+        return $this->belongsTo(Category::class, 'id_category', 'id');
     }
 
     public function replacementTutorial(): \Illuminate\Database\Eloquent\Relations\HasMany
     {
-        return $this->hasMany(ReplacementTutorial::class);
+        return $this->hasMany(ReplacementTutorial::class, "id_appliance", "id");
     }
 }

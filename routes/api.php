@@ -6,6 +6,7 @@ use App\Http\Controllers\ReplacementTutorialController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\CategoryEshopController;
 use App\Http\Controllers\EquipmentController;
+use App\Http\Controllers\ApplianceController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -27,3 +28,4 @@ Route::get('eshop', [CategoryEshopController::class,'index'])->name('eshop');
 Route::get('eshop/{id}', [CategoryEshopController::class,'show'])->name('eshopCategoryId');
 Route::get('category/{id}', [CategoryController::class,'show'])->name('categoryId');
 Route::get('equipment/{id}', [EquipmentController::class,'show'])->name('equipmentId');
+Route::get('appliance/{id}', [ApplianceController::class,'show'])->name('applianceId');

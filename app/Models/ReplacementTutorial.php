@@ -11,7 +11,7 @@ class ReplacementTutorial extends Model
 
     public function appliance(): \Illuminate\Database\Eloquent\Relations\BelongsTo
     {
-        return $this->belongsTo(Appliance::class, 'id_appliance');
+        return $this->belongsTo(Appliance::class, 'id_appliance','id');
     }
 
     public function tutorialStep(): \Illuminate\Database\Eloquent\Relations\HasMany

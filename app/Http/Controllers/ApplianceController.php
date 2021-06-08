@@ -41,12 +41,22 @@ class ApplianceController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Appliance  $appliance
-     * @return \Illuminate\Http\Response
+     * @param \App\Models\Appliance $appliance
+     * @param $id
+     * @return \Illuminate\Http\JsonResponse
      */
-    public function show(Appliance $appliance)
+    public function show(Appliance $appliance, $id): \Illuminate\Http\JsonResponse
     {
-        //
+        $getOneAppliance =  Appliance::with('replacementTutorial')
+            ->with('category')
+            ->where([['id', $id]])
+            ->get();
+
+        if (count($getOneAppliance) === 0){
+            return response()->json(['errors'=>"Not Found"],404);
+        }
+
+        return response()->json(['data'=> $getOneAppliance]);
     }
 
     /**
