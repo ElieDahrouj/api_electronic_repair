@@ -41,12 +41,23 @@ class ReplacementTutorialController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\ReplacementTutorial  $replacementTutorial
-     * @return \Illuminate\Http\Response
+     * @param \App\Models\ReplacementTutorial $replacementTutorial
+     * @param $id
+     * @return \Illuminate\Http\JsonResponse
      */
-    public function show(ReplacementTutorial $replacementTutorial)
+    public function show(ReplacementTutorial $replacementTutorial, $id): \Illuminate\Http\JsonResponse
     {
-        //
+        $getOneTutorial =  ReplacementTutorial::with('tutorialStep')
+            ->with('tutorialStep.tutorialPicture')
+            ->with('appliance')
+            ->where([['id', $id]])
+            ->get();
+
+        if (count($getOneTutorial) === 0){
+            return response()->json(['errors'=>"Not Found"],404);
+        }
+
+        return response()->json(['data'=> $getOneTutorial]);
     }
 
     /**

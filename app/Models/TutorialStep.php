@@ -16,6 +16,6 @@ class TutorialStep extends Model
 
     public function tutorialPicture(): \Illuminate\Database\Eloquent\Relations\HasMany
     {
-        return $this->hasMany(TutorialPicture::class);
+        return $this->hasMany(TutorialPicture::class,'id_tutorial_step', 'id');
     }
 }

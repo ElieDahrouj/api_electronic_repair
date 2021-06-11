@@ -29,3 +29,4 @@ Route::get('eshop/{id}', [CategoryEshopController::class,'show'])->name('eshopCa
 Route::get('category/{id}', [CategoryController::class,'show'])->name('categoryId');
 Route::get('equipment/{id}', [EquipmentController::class,'show'])->name('equipmentId');
 Route::get('appliance/{id}', [ApplianceController::class,'show'])->name('applianceId');
+Route::get('replacementTutorial/{id}', [ReplacementTutorialController::class,'show'])->name('replacementTutorialId');

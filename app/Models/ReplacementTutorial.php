@@ -16,6 +16,6 @@ class ReplacementTutorial extends Model
 
     public function tutorialStep(): \Illuminate\Database\Eloquent\Relations\HasMany
     {
-        return $this->hasMany(TutorialStep::class);
+        return $this->hasMany(TutorialStep::class,'id_replacement_tutorial', 'id');
     }
 }
